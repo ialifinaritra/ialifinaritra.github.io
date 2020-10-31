@@ -1,5 +1,5 @@
 ---
-title: "Ialifinaritra RAKOTONIAINA, Data Scientist Junior"
+title: "Ialifinaritra R., Data Scientist Junior"
 excerpt: ""
 author_profile: true
 layout : single
