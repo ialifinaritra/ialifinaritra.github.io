@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name     : "Ialifinaritra R."
-  avatar   : "https://jeremieperes.github.io/assets/images/profile.jpg"
-  bio      : "Data Scientist - CentraleSupelec & Telecom Paris alumni"
+  avatar   : "/assets/images/profile.jpg"
+  bio      : "Data Scientist - Deep Learning Engineer Junior | Telecom Paris Student"
   location : "Paris"
   links:
     - label: "Linkedin"
