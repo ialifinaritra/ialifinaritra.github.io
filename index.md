@@ -21,4 +21,4 @@ The goal of this website is to share my academic and personal project.
 
 I am enthusiast to learn new topics in artificial intelligence and I have strong interest in Computer Vision and Natural Language Processing area. 
 
-Feel free to reach me on [Linkedin](https://www.linkedin.com/in/ialifinaritra-rakotoniaina-bb3970106/) or by [e-mail](ialifinaritra@gmail.com) if you want to discuss about Machine Learning Projects or if you want us to work together
+Feel free to reach me on [Linkedin](https://www.linkedin.com/in/ialifinaritra-rakotoniaina-bb3970106/) or by [e-mail](ialifinaritra@gmail.com) if you want to discuss about Machine Learning Projects or if you want us to work together.
