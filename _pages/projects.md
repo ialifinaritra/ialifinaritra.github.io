@@ -23,10 +23,12 @@ For this, the model will learn how J.S Bach's "Cello suite" have been composed a
 
 
 ## [Image Object Detection](https://github.com/ialifinaritra/Image_Object_Detection)
+<img align="left" width="400px" height="400px" style="padding-right:25px" src="/assets/images/yolov3.jpg">
+This is an object detection implementation using yolo V3 and openCV. This latter proposes an simple API to read darknet pretrained models and enables to exploit easily YOLO model. The model is served in a simplified interface built with FLASK.
 
 ## [GDELT Project](https://github.com/ialifinaritra/Gdelt-Project)
 
-<img align="left" width="500" height="500" style="padding-right:25px" src="/assets/images/GDELT.jpg">
+<img align="left" width="400px" height="400px" style="padding-right:25px" src="/assets/images/GDELT.jpg">
 The goal of this project is to build a resilient database architecture to store large amount of data and allows analysis on GDELT dataset and its data sources. It will allow to see to see the evolution of relations between different countries by studiyng the tone of the mentions in the articles.
 
 The stack used in this project are AWS using EC2 and S3 bucket, Cassandra and SPARK.
