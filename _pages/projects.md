@@ -18,7 +18,7 @@ The module is based on [Camembert](https://camembert-model.fr/) and [Flaubert](h
 
 
 ## [Music Sequence Generation](https://github.com/ialifinaritra/Music_Generation)
-<img align="left" width="500" height="500" style="padding-right:25px" src="/assets/images/cello.jpg">
+<img align="left" width="250" height="250" style="padding-right:25px" src="/assets/images/cello.jpg">
 The main goal of this project is to train a reccurent neural netwrok in order to learn a language model and then use the model to generate new sequences. The model will be trained to learn the language of music of Johan_Sebastian_Bach. 
 
 For this, the model will learn how J.S Bach's "Cello suite" have been composed and then will be able to generate new music sequences from random notes given to it.
