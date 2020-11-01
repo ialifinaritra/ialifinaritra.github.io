@@ -8,7 +8,7 @@ header :
     image: "/assets/images/banner.jpg"
 ---
 
-# GDELT Project
+# [GDELT Project](https://github.com/ialifinaritra/Gdelt-Project)
 
-<img align="left" width="100" height="100" src="/assets/images/GDELT.jph">
+<img align="left" width="250" height="250" src="/assets/images/GDELT.jpg">
 This project is to build resilient architecture on EC2 , Cassandra
