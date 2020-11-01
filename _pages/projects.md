@@ -26,6 +26,7 @@ For this, the model will learn how J.S Bach's "Cello suite" have been composed a
 <img align="left" width="400px" height="400px" style="padding-right:25px" src="/assets/images/yolov3.jpg">
 This is an object detection implementation using yolo V3 and openCV. This latter proposes an simple API to read darknet pretrained models and enables to exploit easily YOLO model. The model is served in a simplified interface built with FLASK.
 
+<br>
 
 ## [GDELT Project](https://github.com/ialifinaritra/Gdelt-Project)
 
