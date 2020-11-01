@@ -8,6 +8,7 @@ header :
     image: "/assets/images/banner.jpg"
 ---
 
-<img style="float: right;" src="/assets/images/GDELT.jpg">
+# GDELT Project
 
-This project's goal is to build resilient architecture.
+<img align="left" width="100" height="100" src="/assets/images/GDELT.jph">
+This project is to build resilient architecture on EC2 , Cassandra
