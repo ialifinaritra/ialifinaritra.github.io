@@ -10,7 +10,7 @@ header :
 
 
 ## [French Text Summarization](https://github.com/ialifinaritra/Text_Summarization)
-<img align="left" width="500px" height="500px" style="padding-right:25px" src="/assets/images/summaries.png">
+<img align="left" width="400" height="400" style="padding-right:25px" src="/assets/images/summaries.png">
 
 This Module is a Summarizer using Hugging face's Transformers library, which provides general-purpose architectures for NLP, in particual the BERT architecture. This module proposes 3 methods of summarization : Mean summarization, Clustering summarization, Graph Summarization.
 The module is based on [Camembert](https://camembert-model.fr/) and [Flaubert](https://arxiv.org/abs/1912.05372).
