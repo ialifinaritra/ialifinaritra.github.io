@@ -10,14 +10,14 @@ header :
 
 
 ## [French Text Summarization](https://github.com/ialifinaritra/Text_Summarization)
-<img align="left" width="400" height="400" style="padding-right:25px" src="/assets/images/summaries.png">
+<img align="left" width="400px" height="400px" style="padding-right:25px" src="/assets/images/summaries.png">
 
 This Module is a Summarizer using Hugging face's Transformers library, which provides general-purpose architectures for NLP, in particual the BERT architecture. This module proposes 3 methods of summarization : Mean summarization, Clustering summarization, Graph Summarization.
 The module is based on [Camembert](https://camembert-model.fr/) and [Flaubert](https://arxiv.org/abs/1912.05372).
 
 
 ## [Music Sequence Generation](https://github.com/ialifinaritra/Music_Generation)
-<img align="left" width="250" height="250" style="padding-right:25px" src="/assets/images/cello.jpg">
+<img align="left" width="400px" height="400px" style="padding-right:25px" src="/assets/images/bach.jpg">
 The main goal of this project is to train a reccurent neural netwrok in order to learn a language model and then use the model to generate new sequences. The model will be trained to learn the language of music of Johan_Sebastian_Bach. 
 For this, the model will learn how J.S Bach's "Cello suite" have been composed and then will be able to generate new music sequences from random notes given to it.
 
